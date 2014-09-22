@@ -244,10 +244,7 @@ mark {
 /*
  * Addresses margins set differently in IE6/7
  */
-p,
-pre {
-  margin: 1em 0;
-}
+
 
 /*
  * Corrects font family set oddly in IE6, S4/5, Chrome
@@ -804,7 +801,6 @@ section #title p {
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-size: 18px;
-  text-align: center;
 }
 section #title .credits {
   font-size: 11px;
